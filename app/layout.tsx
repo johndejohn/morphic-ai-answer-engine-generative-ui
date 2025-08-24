@@ -15,10 +15,10 @@ const fontSans = FontSans({
 
 const title = 'Uyghur.Institute'
 const description =
-  'A fully open-source AI-powered answer engine with a generative UI.'
+  'A fully open-source AI-powered answer engine with a generative UI.by Uyghur.Institute'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://morphic.sh'),
+  metadataBase: new URL('https://uyghur.institute'),
   title,
   description,
   openGraph: {
